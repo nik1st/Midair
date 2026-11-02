@@ -1,0 +1,80 @@
+name: Midair
+
+options:
+  bundleIdPrefix: dev.nikita
+  developmentLanguage: en
+  deploymentTarget:
+    macOS: "26.0"
+  xcodeVersion: "27.1"
+  minimumXcodeGenVersion: 2.44.1
+  createIntermediateGroups: true
+
+fileGroups:
+  - project.yml
+  - README.md
+
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+    DEAD_CODE_STRIPPING: YES
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+    SWIFT_EMIT_LOC_STRINGS: YES
+
+# Signing comes from xcconfig files: a fresh clone builds with ad-hoc signing, and the optional
+# Config/Local.xcconfig (not in git) sets your team so macOS keeps the Accessibility permission across rebuilds.
+configFiles:
+  Debug: Config/Signing.xcconfig
+  Release: Config/Signing.xcconfig
+
+targets:
+  Midair:
+    type: application
+    platform: macOS
+    sources:
+      - path: Midair
+    info:
+      path: Midair/Resources/Info.plist
+      properties:
+        CFBundleDisplayName: Midair
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        LSApplicationCategoryType: public.app-category.productivity
+        LSMinimumSystemVersion: $(MACOSX_DEPLOYMENT_TARGET)
+        NSCameraUsageDescription: Midair tracks your hand position to control the cursor. Frames are processed only on this Mac and never leave it.
+        NSCameraUseContinuityCameraDeviceType: true
+        # Otherwise gesture reactions (thumbs up, heart) draw fireworks right into the frame and disturb tracking.
+        NSCameraReactionEffectGesturesEnabledDefault: false
+    entitlements:
+      path: Midair/Resources/Midair.entitlements
+      properties:
+        com.apple.security.device.camera: true
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.nikita.Midair
+        ENABLE_HARDENED_RUNTIME: YES
+        MARKETING_VERSION: 0.1.0
+        CURRENT_PROJECT_VERSION: 1
+
+  MidairTests:
+    type: bundle.unit-test
+    platform: macOS
+    # The gesture logic doesn't depend on AppKit, AVFoundation or Vision, so the tests
+    # compile it directly and don't launch the app with the camera.
+    sources:
+      - path: MidairTests
+      - path: Midair/Core
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.nikita.MidairTests
+        GENERATE_INFOPLIST_FILE: YES
+
+schemes:
+  Midair:
+    build:
+      targets:
+        Midair: all
+        MidairTests: [test]
+    test:
+      targets:
+        - MidairTests

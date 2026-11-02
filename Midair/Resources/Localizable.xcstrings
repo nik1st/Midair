@@ -1,0 +1,1462 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ (desk view)" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ (вид на стол)"
+          }
+        }
+      }
+    },
+    "%lld fps" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld к/с"
+          }
+        }
+      }
+    },
+    "%lld ms" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld мс"
+          }
+        }
+      }
+    },
+    "4:3 instead of 16:9: if the camera delivers it from the same sensor, the hand gets more room at the bottom" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Формат 4:3 вместо 16:9: если камера даёт его с той же матрицы, руке больше места снизу"
+          }
+        }
+      }
+    },
+    "Accessibility" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Универсальный доступ"
+          }
+        }
+      }
+    },
+    "Allow" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешить"
+          }
+        }
+      }
+    },
+    "Allow Access" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешить доступ"
+          }
+        }
+      }
+    },
+    "Almost no difference" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разницы почти нет"
+          }
+        }
+      }
+    },
+    "Always" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Всегда"
+          }
+        }
+      }
+    },
+    "Any" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любая"
+          }
+        }
+      }
+    },
+    "At the bottom edge: raise your hand" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У нижнего края: поднимите руку выше"
+          }
+        }
+      }
+    },
+    "At the far edge of the desk: move your hand toward you" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У дальнего края стола: придвиньте руку к себе"
+          }
+        }
+      }
+    },
+    "At the left edge: move your hand to the right" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У левого края: сдвиньте руку правее"
+          }
+        }
+      }
+    },
+    "At the near edge of the desk: move your hand away from you" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У ближнего края стола: сдвиньте руку от себя"
+          }
+        }
+      }
+    },
+    "At the right edge: move your hand to the left" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У правого края: сдвиньте руку левее"
+          }
+        }
+      }
+    },
+    "At the top edge: lower your hand" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У верхнего края: опустите руку ниже"
+          }
+        }
+      }
+    },
+    "Average frame brightness and illuminance as estimated by the camera itself" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Средняя яркость кадра и освещённость по оценке самой камеры"
+          }
+        }
+      }
+    },
+    "Bright strips along the screen edges light up your hand while gestures are on. “In the Dark”: they turn on when the frame gets dark and stay on until gestures are turned off" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Светлые полосы по краям экрана освещают руку, пока включены жесты. «В темноте»: загораются, когда кадр потемнел, и горят до выключения жестов"
+          }
+        }
+      }
+    },
+    "Brighten dark frames for recognition" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осветлять тёмный кадр для распознавания"
+          }
+        }
+      }
+    },
+    "Brightening helps" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осветление помогает"
+          }
+        }
+      }
+    },
+    "Brightening helps: worth turning it on" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осветление помогает: его стоит включить"
+          }
+        }
+      }
+    },
+    "Brightening hurts" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осветление мешает"
+          }
+        }
+      }
+    },
+    "Brightening hurts: better turn it off" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осветление мешает: лучше выключить"
+          }
+        }
+      }
+    },
+    "Call with gesturing" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Созвон с жестикуляцией"
+          }
+        }
+      }
+    },
+    "Camera" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камера"
+          }
+        }
+      }
+    },
+    "Camera is busy or unavailable" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камера занята или недоступна"
+          }
+        }
+      }
+    },
+    "Camera not found" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камера не найдена"
+          }
+        }
+      }
+    },
+    "Couldn't get frames from the camera" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось получить кадры с камеры"
+          }
+        }
+      }
+    },
+    "Cursor" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Курсор"
+          }
+        }
+      }
+    },
+    "Dark frames compared: %lld. The hand was found in %lld%% of them without brightening and in %lld%% with it; joints visible: %lld and %lld of 21." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dark frames compared: %1$lld. The hand was found in %2$lld%% of them without brightening and in %3$lld%% with it; joints visible: %4$lld and %5$lld of 21."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тёмных кадров в сравнении: %lld. Рука нашлась без осветления в %lld%%, с ним в %lld%%; суставов видно %lld и %lld из 21."
+          }
+        }
+      }
+    },
+    "Disabled" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "выключен"
+          }
+        }
+      }
+    },
+    "Dragging" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетаскивание"
+          }
+        }
+      }
+    },
+    "Edge Light" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edge Light"
+          }
+        }
+      }
+    },
+    "Enabled" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "включён"
+          }
+        }
+      }
+    },
+    "File" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Файл"
+          }
+        }
+      }
+    },
+    "Fist" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кулак"
+          }
+        }
+      }
+    },
+    "Fist with the other hand" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кулак второй рукой"
+          }
+        }
+      }
+    },
+    "Fist: the cursor stays put" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кулак: курсор стоит"
+          }
+        }
+      }
+    },
+    "Flip horizontally" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отразить по горизонтали"
+          }
+        }
+      }
+    },
+    "Flip vertically" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отразить по вертикали"
+          }
+        }
+      }
+    },
+    "For when the other hand isn't in the frame. Off by default because a hand opening a pinch looks like this pose and starts scrolling by itself" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для случая, когда второй руки нет в кадре. Выключено, потому что кисть, разжимающая щипок, похожа на эту позу и включает прокрутку сама"
+          }
+        }
+      }
+    },
+    "Frame area to the whole screen" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зона кадра на весь экран"
+          }
+        }
+      }
+    },
+    "Frames are processed only on this Mac and never leave it." : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кадры обрабатываются только на этом Mac и никуда не отправляются."
+          }
+        }
+      }
+    },
+    "Gesture badge next to the cursor" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значок жеста у курсора"
+          }
+        }
+      }
+    },
+    "Gesture control (⌃⌥⌘G)" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Управление жестами (⌃⌥⌘G)"
+          }
+        }
+      }
+    },
+    "Gesture log (⌃⌥⌘M false trigger, ⌃⌥⌘N miss)" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Журнал жестов (⌃⌥⌘M ложное, ⌃⌥⌘N пропуск)"
+          }
+        }
+      }
+    },
+    "Gestures" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Жесты"
+          }
+        }
+      }
+    },
+    "Gestures off" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Жесты выключены"
+          }
+        }
+      }
+    },
+    "Gestures on" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Жесты включены"
+          }
+        }
+      }
+    },
+    "Granted" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Есть"
+          }
+        }
+      }
+    },
+    "Hand" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рука"
+          }
+        }
+      }
+    },
+    "Hand left the frame at the bottom" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рука ушла за нижний край кадра"
+          }
+        }
+      }
+    },
+    "Hand left the frame at the top" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рука ушла за верхний край кадра"
+          }
+        }
+      }
+    },
+    "Hand left the frame on the left" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рука ушла за левый край кадра"
+          }
+        }
+      }
+    },
+    "Hand left the frame on the right" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рука ушла за правый край кадра"
+          }
+        }
+      }
+    },
+    "Hand lost mid-frame: turn your palm to the camera" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рука потерялась в кадре: поверните ладонь к камере"
+          }
+        }
+      }
+    },
+    "Hand lost: it's dark, add some light" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рука потерялась: в кадре темно, добавьте света"
+          }
+        }
+      }
+    },
+    "Hand out of frame" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рука вне кадра"
+          }
+        }
+      }
+    },
+    "Hands that enter the frame by accident (a mug, a phone, a conversation) do nothing until the palm holds still for half a second" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Руки, попавшие в кадр случайно (кружка, телефон, разговор), ничего не делают, пока ладонь не постоит на месте полсекунды"
+          }
+        }
+      }
+    },
+    "Hold an open palm still to start" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Задержите открытую ладонь, чтобы начать"
+          }
+        }
+      }
+    },
+    "Hold for a right-click or move your hand to drag" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Держите для правого клика или ведите руку, чтобы тащить"
+          }
+        }
+      }
+    },
+    "Holding the drag: bring your pinching hand back" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Держу перетаскивание: верните руку со щипком"
+          }
+        }
+      }
+    },
+    "In the Dark" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В темноте"
+          }
+        }
+      }
+    },
+    "Intentional gestures" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Намеренные жесты"
+          }
+        }
+      }
+    },
+    "Keyboard, mouse, trackpad" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавиатура, мышь, трекпад"
+          }
+        }
+      }
+    },
+    "Left" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Левая"
+          }
+        }
+      }
+    },
+    "Light in frame" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Свет в кадре"
+          }
+        }
+      }
+    },
+    "Light strength" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сила подсветки"
+          }
+        }
+      }
+    },
+    "Like a trackpad" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как трекпад"
+          }
+        }
+      }
+    },
+    "Log" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Журнал"
+          }
+        }
+      }
+    },
+    "Low Light" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Темнота"
+          }
+        }
+      }
+    },
+    "Midair" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midair"
+          }
+        }
+      }
+    },
+    "Mini window with hand position" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мини-окно с положением руки"
+          }
+        }
+      }
+    },
+    "Mode" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Режим"
+          }
+        }
+      }
+    },
+    "Mouse or trackpad" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мышь или трекпад"
+          }
+        }
+      }
+    },
+    "Mug" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кружка"
+          }
+        }
+      }
+    },
+    "Natural scrolling" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Естественная прокрутка"
+          }
+        }
+      }
+    },
+    "No Camera Access" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нет доступа к камере"
+          }
+        }
+      }
+    },
+    "No hand in view" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Руки не видно"
+          }
+        }
+      }
+    },
+    "No hand in view: it's dark, add some light" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Руки не видно: в кадре темно, добавьте света"
+          }
+        }
+      }
+    },
+    "No hand in view: raise your palm to the camera" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Руки не видно: поднимите ладонь к камере"
+          }
+        }
+      }
+    },
+    "Not specified" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не указано"
+          }
+        }
+      }
+    },
+    "Off" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выключена"
+          }
+        }
+      }
+    },
+    "Open Midair" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть Midair"
+          }
+        }
+      }
+    },
+    "Open palm" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открытая ладонь"
+          }
+        }
+      }
+    },
+    "Palm still for half a second" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ладонь на месте полсекунды"
+          }
+        }
+      }
+    },
+    "Paused: you're using the keyboard or mouse" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пауза: вы пользуетесь клавиатурой или мышью"
+          }
+        }
+      }
+    },
+    "Permissions" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доступ"
+          }
+        }
+      }
+    },
+    "Phone in hand" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Телефон в руке"
+          }
+        }
+      }
+    },
+    "Pinch and move" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щипок и вести"
+          }
+        }
+      }
+    },
+    "Pinch and release" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щипок и отпустить"
+          }
+        }
+      }
+    },
+    "Pinch sensitivity" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чувствительность щипка"
+          }
+        }
+      }
+    },
+    "Pinch: release to click or move your hand to drag" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щипок: отпустите для клика или ведите руку, чтобы тащить"
+          }
+        }
+      }
+    },
+    "Provocations: waving, tapping, making a fist" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Провокации: машу, стучу, сжимаю кулак"
+          }
+        }
+      }
+    },
+    "Quit" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выйти"
+          }
+        }
+      }
+    },
+    "Reading" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чтение"
+          }
+        }
+      }
+    },
+    "Record a log while gestures are on" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Записывать журнал, пока жесты включены"
+          }
+        }
+      }
+    },
+    "Release for a right-click" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отпустите для правого клика"
+          }
+        }
+      }
+    },
+    "Reset Settings" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сбросить настройки"
+          }
+        }
+      }
+    },
+    "Right" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Правая"
+          }
+        }
+      }
+    },
+    "Right after a false trigger press ⌃⌥⌘M, and if a gesture didn't work, ⌃⌥⌘N: a mark appears in the log and you hear a sound" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сразу после ложного срабатывания нажмите ⌃⌥⌘M, а если жест не сработал, ⌃⌥⌘N: в журнале появится отметка, а вы услышите звук"
+          }
+        }
+      }
+    },
+    "Screen light" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подсветка экраном"
+          }
+        }
+      }
+    },
+    "Screen lighting from macOS. It can only be turned on in the system Video Effects menu while the Midair camera is running" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подсветка экраном от macOS. Включается только в системном меню видеоэффектов, пока камера Midair работает"
+          }
+        }
+      }
+    },
+    "Scroll speed" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скорость прокрутки"
+          }
+        }
+      }
+    },
+    "Scrolling: move your hand; a fist or bent fingers reposition it" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокрутка: ведите рукой, кулак или согнутые пальцы переставляют руку"
+          }
+        }
+      }
+    },
+    "Shadow log while gestures are off" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Теневой журнал, пока жесты выключены"
+          }
+        }
+      }
+    },
+    "Smooth motion between camera frames" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Плавный ход между кадрами камеры"
+          }
+        }
+      }
+    },
+    "Smoothing" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сглаживание"
+          }
+        }
+      }
+    },
+    "Source" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Источник"
+          }
+        }
+      }
+    },
+    "Speed" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скорость"
+          }
+        }
+      }
+    },
+    "Stretching" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потягивания"
+          }
+        }
+      }
+    },
+    "Take control with an open palm" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Брать управление открытой ладонью"
+          }
+        }
+      }
+    },
+    "Taller frame (4:3)" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кадр выше (4:3)"
+          }
+        }
+      }
+    },
+    "The camera watches and the engine recognizes gestures, but nothing gets pressed. Every gesture in this log is a false one: it's used to count false triggers per hour" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камера смотрит, движок считает жесты, но ничего не нажимает. Любой жест в таком журнале ложный: по нему считают ложные срабатывания в час"
+          }
+        }
+      }
+    },
+    "The cursor moves in step with the display instead of jumping 30 times a second. The cost: with a 30 fps camera it lags behind the hand by about 20 ms more" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Курсор движется в такт с экраном, а не рывками 30 раз в секунду. Плата: при камере 30 к/с он отстаёт от руки ещё примерно на 20 мс"
+          }
+        }
+      }
+    },
+    "Thumb to pinky" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Большой к мизинцу"
+          }
+        }
+      }
+    },
+    "Two cameras: %@ and desk view" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Две камеры: %@ и вид на стол"
+          }
+        }
+      }
+    },
+    "Two fingers" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Два пальца"
+          }
+        }
+      }
+    },
+    "Two-finger scrolling with one hand" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокрутка двумя пальцами одной рукой"
+          }
+        }
+      }
+    },
+    "Typing" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Набор текста"
+          }
+        }
+      }
+    },
+    "Video Effects…" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видеоэффекты…"
+          }
+        }
+      }
+    },
+    "What you're doing" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чем вы заняты"
+          }
+        }
+      }
+    },
+    "Writing with a pen" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Письмо ручкой"
+          }
+        }
+      }
+    },
+    "about %lld lx" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "около %lld лк"
+          }
+        }
+      }
+    },
+    "also “mouse lifted”; a drag waits a second for the pinching hand, after 1.5 s you need to take control again" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "тоже «мышь поднята»; перетаскивание ждёт руку со щипком секунду, через 1,5 с управление надо брать заново"
+          }
+        }
+      }
+    },
+    "click; thumb with index or middle finger, either works; twice for a double-click" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "клик; большой с указательным или средним, без разницы; дважды для двойного клика"
+          }
+        }
+      }
+    },
+    "dark" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "темно"
+          }
+        }
+      }
+    },
+    "desk" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "стол"
+          }
+        }
+      }
+    },
+    "desk leads" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ведёт стол"
+          }
+        }
+      }
+    },
+    "drag; the button goes down once the hand moves a couple of centimeters, opening the fingers releases it" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "перетаскивание; кнопка нажимается, когда рука сдвинется на пару сантиметров, отпускание пальцев отпускает"
+          }
+        }
+      }
+    },
+    "exposure at its limit" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "выдержка на пределе"
+          }
+        }
+      }
+    },
+    "face" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "лицо"
+          }
+        }
+      }
+    },
+    "face camera leads" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ведёт камера лица"
+          }
+        }
+      }
+    },
+    "gestures pause on their own while you use them, then take control with your palm again" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "жесты сами встают на паузу, пока вы ими пользуетесь, потом управление берут ладонью заново"
+          }
+        }
+      }
+    },
+    "moves the cursor, like a finger on a trackpad" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ведёт курсор, как палец по трекпаду"
+          }
+        }
+      }
+    },
+    "no frames" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "нет кадров"
+          }
+        }
+      }
+    },
+    "one-handed scrolling, if enabled below: index and middle fingers straight, the others bent, the page follows the hand. Bend those two fingers to reposition the hand, open your palm to finish" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "прокрутка одной рукой, если включена ниже: указательный и средний прямые, остальные согнуты, страница идёт за рукой. Согните эти два пальца, чтобы переставить руку, раскройте ладонь, чтобы закончить"
+          }
+        }
+      }
+    },
+    "right-click; you can also hold a regular pinch for a second and a half until the ring is full" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "правый клик; ещё можно держать обычный щипок полторы секунды, пока кольцо не станет полным"
+          }
+        }
+      }
+    },
+    "scrolling: while that fist is held, the first hand scrolls: the palm moves the page, a fist repositions the hand. Open the other hand to get the cursor back" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "прокрутка: пока кулак сжат, первая рука листает, ладонь ведёт страницу, кулак переставляет руку. Разожмите, чтобы вернуть курсор"
+          }
+        }
+      }
+    },
+    "takes control: until then the cursor stays put and pinches are ignored" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "берёт управление: до этого курсор стоит, а щипки не принимаются"
+          }
+        }
+      }
+    },
+    "turn gestures on or off from any app" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "включить или выключить жесты из любого приложения"
+          }
+        }
+      }
+    },
+    "view only" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "только просмотр"
+          }
+        }
+      }
+    },
+    "“lift the mouse”: the cursor stays put and you can reposition your hand" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«поднять мышь»: курсор стоит, руку можно переставить"
+          }
+        }
+      }
+    },
+    "⌃⌥⌘G" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌃⌥⌘G"
+          }
+        }
+      }
+    },
+    "⌃⌥⌘G turns gestures on and off from any app" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌃⌥⌘G включает и выключает жесты из любого приложения"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

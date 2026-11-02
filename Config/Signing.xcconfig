@@ -1,0 +1,8 @@
+// Signing for builds from a fresh clone: ad-hoc ("Sign to Run Locally"), no Apple developer account needed.
+// With ad-hoc signing macOS resets the Accessibility permission after every rebuild. To keep it, copy
+// Local.xcconfig.example to Local.xcconfig in this folder and set your team. Local.xcconfig is not tracked by git.
+CODE_SIGN_STYLE = Manual
+CODE_SIGN_IDENTITY = -
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"

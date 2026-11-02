@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# Xcode: user state and build products
+xcuserdata/
+*.xcuserstate
+build/
+DerivedData/
+*.xcarchive
+*.dSYM
+*.dSYM.zip
+*.app
+*.dmg
+.build/
+.swiftpm/
+
+# The Xcode project is generated from project.yml: run `xcodegen generate`
+*.xcodeproj
+
+# Signing and keys: your team goes into Config/Local.xcconfig
+Config/Local.xcconfig
+*.p8
+*.p12
+*.pem
+*.cer
+*.mobileprovision
+*.provisionprofile
+AuthKey_*
+.env
+.env.*
+
+# Local AI tool settings
+.claude/settings.local.json
+.claude/worktrees/
+CLAUDE.local.md
+.mcp.json
+
+# Gesture logs record a real hand, the local test recording in MidairTests/Fixtures included
+*.jsonl
+
+# Local research notes and reports, not published
+research_notes/
+reports/

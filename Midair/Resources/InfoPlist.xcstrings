@@ -1,0 +1,24 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "NSCameraUsageDescription" : {
+      "comment" : "Privacy - Camera Usage Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Midair tracks your hand position to control the cursor. Frames are processed only on this Mac and never leave it."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midair следит за положением руки, чтобы управлять курсором. Кадры обрабатываются только на этом Mac и никуда не отправляются."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
